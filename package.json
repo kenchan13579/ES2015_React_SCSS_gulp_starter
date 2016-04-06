@@ -1,0 +1,38 @@
+{
+  "name": "es2015_react_scss_gulp_starter",
+  "version": "1.0.0",
+  "description": "gulpfile to quick start es2015/react project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenchan13579/ES2015_React_SCSS_gulp_starter.git"
+  },
+  "keywords": [
+    "es2015",
+    "react",
+    "scss",
+    "gulp"
+  ],
+  "author": "Leung Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenchan13579/ES2015_React_SCSS_gulp_starter/issues"
+  },
+  "homepage": "https://github.com/kenchan13579/ES2015_React_SCSS_gulp_starter#readme",
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssnext": "^1.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.5.3",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
